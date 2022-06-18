@@ -9,5 +9,5 @@ Avidamente procurando um emprego para chamar de meu.
 </div>
 
 <div align="center">
-   <img height="180em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaiconGiehl&theme=highcontrast)](https://git.io/streak-stats)"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconGiehl&theme=highcontrast"/>
 </div>
