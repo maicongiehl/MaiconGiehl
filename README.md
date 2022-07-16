@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hello Wo-- HUM? Need something?
+# Hello Wo- Hum? Need something?
 
-### "There are no beautiful surfaces without a terrible depth" - Nietzsche
+## "There are no beautiful surfaces without a terrible depth" - Nietzsche
 
-##### Just a 17 years old brazilian studying to become a programmer. Looking for a job to call my own. 	
+### Working as support analist at Migrate Brasil
+#### Just a 17 years old brazilian studying to become a programmer.
 
 ---
 
