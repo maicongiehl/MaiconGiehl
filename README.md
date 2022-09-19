@@ -4,8 +4,8 @@
 
 ## "There are no beautiful surfaces without a terrible depth" - Nietzsche
 
-### Working as support analist at Migrate Brasil
-#### Just a 17 years old brazilian studying to become a programmer.
+### Working as GeneXus Developer Trainee at Migrate Brasil
+#### Just a 17-year-old Brazilian studying a lot of things to, maybe one day, know a drop of this ocean.
 
 ---
 
@@ -44,7 +44,8 @@
 
   ### Frameworks
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="60"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" height="60" width="60"/>&nbsp;
+  
 ---
 
   ### Databases
